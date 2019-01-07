@@ -44,7 +44,7 @@ int main(int argc, char* argv[])
     CKFApp kf;
 
     //NOTE: Here is the direcotry containing the MIT_gaotie.txt.
-    CFileRdWt::Dir("/home/yf/PSINS-Develop-Group/Source/demo1/");
+    CFileRdWt::Dir("/home/sz/psins/PSINS-Develop-Group/Source/demo1/");
     CFileRdWt fin("MTI_gaotie.txt", 10);
     ps=(SSensor*)fin.buff;
     CFileRdWt fins("ins.bin");

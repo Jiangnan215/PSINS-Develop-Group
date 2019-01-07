@@ -6,6 +6,7 @@ CMake Build Setup:
 
 # Unix/Linux:
 Under current direcotry:
+**please use your own working directory for demo1/demo.cpp(47)** 
 ```bash
 $ mkdir ./build
 $ cd ./build
