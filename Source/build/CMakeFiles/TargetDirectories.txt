@@ -1,9 +1,0 @@
-/home/sz/psins/PSINS-Develop-Group/Source/build/CMakeFiles/edit_cache.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/CMakeFiles/rebuild_cache.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/demo1/CMakeFiles/edit_cache.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/demo1/CMakeFiles/rebuild_cache.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/demo1/CMakeFiles/test.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/demo1/CMakeFiles/demo.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/Algorithm/CMakeFiles/edit_cache.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/Algorithm/CMakeFiles/rebuild_cache.dir
-/home/sz/psins/PSINS-Develop-Group/Source/build/Algorithm/CMakeFiles/PSINS_static.dir

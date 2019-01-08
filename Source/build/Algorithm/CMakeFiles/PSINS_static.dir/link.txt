@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../bin/libPSINS_static.a  CMakeFiles/PSINS_static.dir/KFApp.cpp.o CMakeFiles/PSINS_static.dir/PSINSBase.cpp.o CMakeFiles/PSINS_static.dir/PSINSIO.cpp.o CMakeFiles/PSINS_static.dir/PSINS.cpp.o
-/usr/bin/ranlib ../bin/libPSINS_static.a
